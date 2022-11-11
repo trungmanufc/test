@@ -1,0 +1,9 @@
+JVM
+OOP: compile runtime polymorphism (kĩ)
+Java 8 
+Collection(kĩ)
+Stream API
+FUnctional defe
+
+Lambda, functional interface, intermediate operation.
+Stream API(tại sao ko thay đổi dữ liệu collection gốc)
